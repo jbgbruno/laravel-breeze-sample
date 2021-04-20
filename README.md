@@ -1,7 +1,7 @@
 # Dashboard Template
 
 
-🧶 Modelo de início para projetos de painel criado com Tailwindcss, Alpinejs, Livewire, Laravel Breeze e Laravel 8 baseado no Template [tailwindcomponents/dashboard theme](https://github.com/tailwindcomponents/dashboard.
+🧶 Modelo de início para projetos de painel criado com Tailwindcss, Alpinejs, Livewire, Laravel Breeze e Laravel 8 baseado no Template [tailwindcomponents/dashboard theme](https://github.com/tailwindcomponents/dashboard).
 
 
 ## Resources
